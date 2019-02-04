@@ -1,0 +1,29 @@
+.News{
+    display: flex;
+    flex-flow: column;
+    border: solid lightgrey thin;
+    padding: 10px;
+}
+
+.sectionType{
+    font-size: 16px;
+    font-weight: bold;
+    color: darkslategrey;
+}
+
+.webTitle{
+    font-size: 32px;
+    font-weight: bolder;
+    color: red;
+    background-color: white;
+}
+
+.webPublicationDate{
+    font-size: 10px;
+    font-weight: normal;
+    color: lightgray;
+}
+
+.News a{
+    text-decoration: none;
+}

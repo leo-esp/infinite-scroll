@@ -1,0 +1,512 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots InboxScreen default 1`] = `
+<div
+  className="page lists-show"
+>
+  <nav>
+    <h1
+      className="title-page"
+    >
+      <span
+        className="title-wrapper"
+      >
+        Taskbox
+      </span>
+    </h1>
+  </nav>
+  <div
+    className="list-items"
+  >
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 1"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 2"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 3"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 4"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 5"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 6"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots InboxScreen error 1`] = `
+<div
+  className="page lists-show"
+>
+  <div
+    className="wrapper-message"
+  >
+    <span
+      className="icon-face-sad"
+    />
+    <div
+      className="title-message"
+    >
+      Oh no!
+    </div>
+    <div
+      className="subtitle-message"
+    >
+      Something went wrong
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots News news 1`] = `
+<div
+  className="list-item"
+>
+  <h2>
+    Sport
+  </h2>
+  <h1>
+    <a
+      href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+    >
+      Australia v Sri Lanka: second Test, day three – live!
+    </a>
+  </h1>
+  <h3>
+    Sa/19/2019 21:i:57
+  </h3>
+</div>
+`;
+
+exports[`Storyshots NewsList default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    <div
+      className="list-item News"
+    >
+      <label
+        className="sectionType"
+      >
+        Sport
+      </label>
+      <a
+        href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+      >
+        <label
+          className="webTitle"
+        >
+          Australia v Sri Lanka: second Test, day three – live!
+        </label>
+      </a>
+      <label
+        className="webPublicationDate"
+      >
+        Sa/19/2019 21:i:57
+      </label>
+    </div>
+    <div
+      className="list-item News"
+    >
+      <label
+        className="sectionType"
+      >
+        Sport
+      </label>
+      <a
+        href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+      >
+        <label
+          className="webTitle"
+        >
+          Australia v Sri Lanka: second Test, day three – live!
+        </label>
+      </a>
+      <label
+        className="webPublicationDate"
+      >
+        Sa/19/2019 21:i:57
+      </label>
+    </div>
+    <div
+      className="list-item News"
+    >
+      <label
+        className="sectionType"
+      >
+        Sport
+      </label>
+      <a
+        href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+      >
+        <label
+          className="webTitle"
+        >
+          Australia v Sri Lanka: second Test, day three – live!
+        </label>
+      </a>
+      <label
+        className="webPublicationDate"
+      >
+        Sa/19/2019 21:i:57
+      </label>
+    </div>
+    <div
+      className="list-item News"
+    >
+      <label
+        className="sectionType"
+      >
+        Sport
+      </label>
+      <a
+        href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+      >
+        <label
+          className="webTitle"
+        >
+          Australia v Sri Lanka: second Test, day three – live!
+        </label>
+      </a>
+      <label
+        className="webPublicationDate"
+      >
+        Sa/19/2019 21:i:57
+      </label>
+    </div>
+    <div
+      className="list-item News"
+    >
+      <label
+        className="sectionType"
+      >
+        Sport
+      </label>
+      <a
+        href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+      >
+        <label
+          className="webTitle"
+        >
+          Australia v Sri Lanka: second Test, day three – live!
+        </label>
+      </a>
+      <label
+        className="webPublicationDate"
+      >
+        Sa/19/2019 21:i:57
+      </label>
+    </div>
+    <div
+      className="list-item News"
+    >
+      <label
+        className="sectionType"
+      >
+        Sport
+      </label>
+      <a
+        href="https://www.theguardian.com/sport/live/2019/feb/03/australia-v-sri-lanka-second-test-day-three-live"
+      >
+        <label
+          className="webTitle"
+        >
+          Australia v Sri Lanka: second Test, day three – live!
+        </label>
+      </a>
+      <label
+        className="webPublicationDate"
+      >
+        Sa/19/2019 21:i:57
+      </label>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots NewsList empty 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    empty
+  </div>
+</div>
+`;
+
+exports[`Storyshots NewsList loading 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    loading
+  </div>
+</div>
+`;
+
+exports[`Storyshots Task archived 1`] = `
+<div
+  className="list-item"
+>
+  <input
+    readOnly={true}
+    type="text"
+    value="Test Task"
+  />
+</div>
+`;
+
+exports[`Storyshots Task default 1`] = `
+<div
+  className="list-item"
+>
+  <input
+    readOnly={true}
+    type="text"
+    value="Test Task"
+  />
+</div>
+`;
+
+exports[`Storyshots Task pinned 1`] = `
+<div
+  className="list-item"
+>
+  <input
+    readOnly={true}
+    type="text"
+    value="Test Task"
+  />
+</div>
+`;
+
+exports[`Storyshots TaskList default 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 1"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 2"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 3"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 4"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 5"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 6"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList empty 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    empty
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList loading 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    loading
+  </div>
+</div>
+`;
+
+exports[`Storyshots TaskList withPinnedTasks 1`] = `
+<div
+  style={
+    Object {
+      "padding": "3rem",
+    }
+  }
+>
+  <div
+    className="list-items"
+  >
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 1"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 2"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 3"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 4"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 5"
+      />
+    </div>
+    <div
+      className="list-item"
+    >
+      <input
+        readOnly={true}
+        type="text"
+        value="Task 6 (pinned)"
+      />
+    </div>
+  </div>
+</div>
+`;
